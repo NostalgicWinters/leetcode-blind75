@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/NostalgicWinters/leetcode-blind75/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/NostalgicWinters/leetcode-blind75/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/NostalgicWinters/leetcode-blind75/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/NostalgicWinters/leetcode-blind75/tree/master/0242-valid-anagram) |
 ## Union-Find
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NostalgicWinters/leetcode-blind75/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/NostalgicWinters/leetcode-blind75/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -32,4 +34,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/NostalgicWinters/leetcode-blind75/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/NostalgicWinters/leetcode-blind75/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
