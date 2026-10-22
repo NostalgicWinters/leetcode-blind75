@@ -6,15 +6,16 @@ public:
         int l = 0;
         int maxCount = 0;
 
-        for (int r = 0; r < s.size(); r++) {
-            while (freq[s[r]] > 0) {
+        for(int i = 0; i < s.size(); i++){
+            while(freq[s[i]] > 0){
                 freq[s[l]]--;
                 l++;
             }
 
-            freq[s[r]]++;
+            freq[s[i]]++;
 
-            maxCount = max(maxCount, r - l + 1);
+            int len = i - l + 1;
+            maxCount = max(maxCount, len);
         }
 
         return maxCount;
